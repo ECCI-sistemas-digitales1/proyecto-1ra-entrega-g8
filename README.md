@@ -3,6 +3,13 @@
 
 ## Integrantes
 
+https://github.com/coronavirus-ux
+## Integrantes del Proyecto
+
+- [Kevin Mejia](https://github.com/coronavirus-ux)
+- [Juan Camilo Yepes ](https://github.com/JuanCY99)
+
+
 
 ## Documentación
 
